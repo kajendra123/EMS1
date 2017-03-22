@@ -9,6 +9,14 @@
     <name>API100-Automation_Final_v1</name>
     <url>http://maven.apache.org</url>
  
+ 
+   <dependencies>
+        <dependency>
+            <groupId>kg.apc</groupId>
+            <artifactId>jmeter-plugins</artifactId>
+            <version>1.0.0</version>
+        </dependency>
+ </dependencies>
     <build>
         <plugins>
             <plugin>
