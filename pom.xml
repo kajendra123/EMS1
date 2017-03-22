@@ -36,6 +36,11 @@
                         </goals>
                     </execution>
                 </executions>
+				<configuration>
+				    <resultsDirectory>/tmp/jmeter</resultsDirectory>
+                    <resultsFileFormat>html</resultsFileFormat>
+                </configuration>
+
             </plugin>
         </plugins>
     </build>
