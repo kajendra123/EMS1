@@ -38,7 +38,7 @@
                 </executions>
 				<configuration>
 				    <resultsDirectory>/tmp/jmeter</resultsDirectory>
-                    <resultsFileFormat>html</resultsFileFormat>
+                    <resultsFileFormat>csv</resultsFileFormat>
                 </configuration>
 
             </plugin>
