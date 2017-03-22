@@ -3127,7 +3127,7 @@ vars.put(&quot;meanOfConsumption&quot;, total/values.length);</stringProp>
             <connectTime>true</connectTime>
           </value>
         </objProp>
-        <stringProp name="filename">C:\Selenium\apache-maven-3.3.9\bin\target\jmeter\report\Report.jtl</stringProp>
+        <stringProp name="filename">C:\Selenium\apache-maven-3.3.9\bin\target\jmeter\report\Report.html</stringProp>
       </ResultCollector>
       <hashTree/>
       <ResultCollector guiclass="SimpleDataWriter" testclass="ResultCollector" testname="Simple Data Writer" enabled="true">
