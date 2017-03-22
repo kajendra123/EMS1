@@ -37,7 +37,7 @@
                     </execution>
                 </executions>
 				<configuration>
-				    <resultsDirectory>/tmp/jmeter</resultsDirectory>
+				    <resultsDirectory>/Selenium/apache-maven-3.3.9/bin/target/jmeter/report</resultsDirectory>
                     <resultsFileFormat>csv</resultsFileFormat>
                 </configuration>
 
